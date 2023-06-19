@@ -1,0 +1,4 @@
+xecd-rates-client == 1.0.0
+pandas == 1.4.2
+schedule == 1.2.0
+requests == 2.27.1
